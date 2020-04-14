@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4611db48-4b00-4f2a-85cd-d6cb5936a2e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZFBxY7rXptPhlDR7ViihUpQXVD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marie Josh\Documents\PROJECTS\ISuit Project\ISuit\public" />
+      <recent name="C:\Users\Marie Josh\Documents\PROJECTS\ISuit Project\ISuit\public\img" />
+      <recent name="C:\Users\Marie Josh\Documents\PROJECTS\ISuit Project\ISuit\img" />
+      <recent name="C:\Users\Marie Josh\Documents\PROJECTS\ISuit Project\ISuit Website\img" />
+      <recent name="C:\Users\Marie Josh\Documents\SAIDA\PROJECTS\Templates\BOOTSTRAP TEMPLATES\jobboard\jobboard\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marie Josh\Documents\SAIDA\PROJECTS\Templates\BOOTSTRAP TEMPLATES\jobboard\jobboard\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4611db48-4b00-4f2a-85cd-d6cb5936a2e4" name="Default Changelist" comment="" />
+      <created>1584425209962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584425209962</updated>
+      <workItem from="1584425215956" duration="15813000" />
+      <workItem from="1584448351514" duration="13798000" />
+      <workItem from="1584526444509" duration="616000" />
+      <workItem from="1584813651273" duration="5134000" />
+      <workItem from="1584852344778" duration="7908000" />
+      <workItem from="1584941900047" duration="27511000" />
+      <workItem from="1585155872059" duration="24712000" />
+      <workItem from="1585386820075" duration="353000" />
+      <workItem from="1585387220593" duration="2127000" />
+      <workItem from="1585819022505" duration="405000" />
+      <workItem from="1585819496837" duration="6793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" key="#Inspections" timestamp="1584434201890">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Inspections/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1584434201890" />
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585135105185">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1585135105185" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1585330417420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1585330417420" />
+    <state x="580" y="173" key="FileChooserDialogImpl" timestamp="1584425389358">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="173" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1584425389358" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1585340086864">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1585340086864" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584439426392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1584439426392" />
+  </component>
+</project>
